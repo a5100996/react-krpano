@@ -16,6 +16,7 @@
   ],
   "scripts": {
     "docs": "BABEL_ENV=\"script\" babel-node --extensions \".ts\" ./scripts/syncDoc.ts",
+    "docs:serve": "docsify serve docs",
     "clean": "rm -rf ./dist",
     "test": "jest --coverage",
     "watch": "concurrently --kill-others \"npm:watch-*\"",
@@ -33,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xLLLLH/react-krpano.git"
+    "url": "git+https://github.com/a5100996/react-krpano.git"
   },
   "config": {
     "commitizen": {
@@ -47,9 +48,9 @@
   "author": "0xLLLLH",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/0xLLLLH/react-krpano/issues"
+    "url": "https://github.com/a5100996/react-krpano/issues"
   },
-  "homepage": "https://0xllllh.github.io/react-krpano/",
+  "homepage": "https://a5100996.github.io/react-krpano/",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/node": "^7.12.10",

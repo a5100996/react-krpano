@@ -2,14 +2,14 @@
 > React bindings for krpano.
 
 
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/0xLLLLH/react-krpano/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/a5100996/react-krpano/blob/main/LICENSE)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![NPM version][npm-image]][npm-url]
 
 [npm-image]: https://img.shields.io/npm/v/@0xllllh/react-krpano?style=flat-square
 [npm-url]: https://www.npmjs.com/package/@0xllllh/react-krpano
 
-[Demo](https://0xllllh.github.io/react-krpano-examples)
+[Demo](https://a5100996.github.io/react-krpano/)
 ## ✨ Features
 * Dynamic rendering of scenes and hotspots without generating xml
 * Use Typescript to develop and provide a complete type definition file.
